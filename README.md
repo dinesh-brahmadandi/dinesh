@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biscuitpacket
+- 👋 Hi, I’m @dinesh
 - 👀 I’m interested in ...frontend web development
 - 🌱 I’m currently learning ...btech 1st year
 - 💞️ I’m looking to collaborate on ...
