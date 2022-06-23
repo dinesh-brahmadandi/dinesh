@@ -1,4 +1,13 @@
+Hi 👋, I'm Dinesh Brahmadandi
+A passionate frontend developer from India
+🌱 I’m currently learning javascript,data structures in c++
+📫 How to reach me- gmail-dines9928@gmail.com,
+<h1 align="center">Hi 👋, I'm Dinesh Brahmadandi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-brahmadandi" alt="dinesh-brahmadandi" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://codepen.io/darkmarcus](https://codepen.io/darkmarcus)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +27,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dines9928B"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dines9928B" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-brahmadandi&show_icons=true&locale=en&layout=compact" alt="dinesh-brahmadandi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh-brahmadandi&show_icons=true&locale=en&layout=compact" alt="dinesh-brahmadandi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-brahmadandi&show_icons=true&locale=en" alt="dinesh-brahmadandi" /></p>
 
